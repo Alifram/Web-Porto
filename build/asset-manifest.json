@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Web-Porto/static/css/main.58f586e1.css",
+    "main.js": "/Web-Porto/static/js/main.fdec31cd.js",
+    "static/js/592.8007b98d.chunk.js": "/Web-Porto/static/js/592.8007b98d.chunk.js",
+    "static/media/Davinda-Cv.pdf": "/Web-Porto/static/media/Davinda-Cv.0e020922b096547817e5.pdf",
+    "static/media/profile.jpg": "/Web-Porto/static/media/profile.c172f93fd544ee50dd08.jpg",
+    "static/media/work3.png": "/Web-Porto/static/media/work3.d004c8ff63c7dbd9843b.png",
+    "static/media/about.jpg": "/Web-Porto/static/media/about.087ff7f66570ca0550e7.jpg",
+    "static/media/work5.png": "/Web-Porto/static/media/work5.c264ed0f597b1253095b.png",
+    "static/media/work1.png": "/Web-Porto/static/media/work1.459a2d0902c7175aacf0.png",
+    "static/media/work4.png": "/Web-Porto/static/media/work4.9da17d4bd397ce009d3c.png",
+    "static/media/work2.png": "/Web-Porto/static/media/work2.6f5d73bc523fdf6039a3.png",
+    "index.html": "/Web-Porto/index.html",
+    "main.58f586e1.css.map": "/Web-Porto/static/css/main.58f586e1.css.map",
+    "main.fdec31cd.js.map": "/Web-Porto/static/js/main.fdec31cd.js.map",
+    "592.8007b98d.chunk.js.map": "/Web-Porto/static/js/592.8007b98d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f586e1.css",
+    "static/js/main.fdec31cd.js"
+  ]
+}
